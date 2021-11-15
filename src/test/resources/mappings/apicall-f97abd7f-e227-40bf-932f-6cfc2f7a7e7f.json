@@ -1,0 +1,20 @@
+{
+  "id" : "f97abd7f-e227-40bf-932f-6cfc2f7a7e7f",
+  "name" : "apicall",
+  "request" : {
+    "url" : "/apiCall",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Hello build WireMock!",
+    "headers" : {
+      "Content-Type" : "text/plain;charset=UTF-8",
+      "Date" : "Thu, 04 Nov 2021 21:26:31 GMT",
+      "Keep-Alive" : "timeout=60"
+    }
+  },
+  "uuid" : "f97abd7f-e227-40bf-932f-6cfc2f7a7e7f",
+  "persistent" : true,
+  "insertionIndex" : 5
+}
